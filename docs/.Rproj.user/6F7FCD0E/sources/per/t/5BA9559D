@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583993420587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "27929375",
+    "id" : "5BA9559D",
+    "lastKnownWriteTime" : 1583993497,
+    "last_content_update" : 1583993497,
+    "path" : "~/GitHub/ntuthesis/project_name/ntu-bookdown.Rmd",
+    "project_path" : "ntu-bookdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "107,0",
+        "scrollLine" : "99"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

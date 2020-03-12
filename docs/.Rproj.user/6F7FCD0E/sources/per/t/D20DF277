@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583993533527.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3981600415",
+    "id" : "D20DF277",
+    "lastKnownWriteTime" : 1583993542,
+    "last_content_update" : 1583993542427,
+    "path" : "~/GitHub/ntuthesis/project_name/01-install-compile.Rmd",
+    "project_path" : "01-install-compile.Rmd",
+    "properties" : {
+        "cursorPosition" : "27,0",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
